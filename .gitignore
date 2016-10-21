@@ -29,3 +29,9 @@ obj/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# ============ #
+# Slack Integration #
+# ============ #
+notifications:
+  slack: afterrabbleapps:0u5TZyVmhEhTwlTmNwmDEWda
